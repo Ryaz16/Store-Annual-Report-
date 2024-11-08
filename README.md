@@ -5,7 +5,7 @@
 The Online Store wants to create an annual sales report for 2022. So that, the owner of the Online store can understand their customers and grow more sales in 2023.
 
 ## **Dataset used**
-- <a href="https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png"> Online Store Data</a>
+- <a href="https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Store%20Data%20Analysis.xlsx"> Online Store Data</a>
 
 ## **Questions (KPIs)**
 
