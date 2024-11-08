@@ -5,7 +5,7 @@
 The Online Store wants to create an annual sales report for 2022. So that, the owner of the Online store can understand their customers and grow more sales in 2023.
 
 ## **Dataset used**
-- <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Data.xlsx">Vrinda Store Data</a>
+- <a href="https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png">Vrinda Store Data</a>
 
 ## **Questions (KPIs)**
 
@@ -25,13 +25,13 @@ The Online Store wants to create an annual sales report for 2022. So that, the o
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png">dashboard interactive</a> and dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png">dashboard interactive</a> and dynamic.
 
 
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Vrinda-Store-Data-Analysis/blob/main/Vrinda%20Store%20Dashboard.png)
+![Alt text of the image](https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png)
 
 
 
