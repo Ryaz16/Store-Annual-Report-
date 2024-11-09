@@ -23,7 +23,7 @@ The Online Store wants to create an annual sales report for 2022. So that, the o
 ## **Process**
 
 - Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Ryaz16/Store-Annual-Report-/blob/main/Online%20Store%20Data%20Analysis%20Dashboard.png">dashboard interactive</a> and dynamic.
 
